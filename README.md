@@ -1,50 +1,42 @@
-# Hi there 👋, I'm Febri Yanto! 🚀
+# 👋 Hi, I’m Febri Yanto
 
-I’m a **Program Manager** with a mission to empower thousands of individuals through technology, artificial intelligence, and impactful programs. Starting from my journey as a computational physics researcher 🧪, I’ve evolved into a tech leader delivering large-scale projects across Southeast Asia.
-
----
-
-### 🚀 What I Do:
-- **Program Manager** at [Your Organization Name] 🌏:  
-   Leading programs that have impacted **1000+ participants** globally, including:  
-   - ASEAN Youth for Digital Action  
-   - USAID PADU  
-   - **AWS re/Start** in collaboration with **8 BLKs** across Indonesia.
-
-- **AI Advocate** 🤖:  
-   Bridging the gap between AI innovation and education by democratizing access to knowledge through open-source initiatives and community-focused learning.
-
-- **Physics Meets Tech** ⚛️:  
-   Leveraging my roots in computational physics to solve real-world problems with data-driven approaches.
+I’m a **Program Manager who codes.**  
+With a background in **physics** and years of experience leading **AI and cloud programs** across Southeast Asia, I bridge strategy with execution—bringing technical understanding into program design, and program impact into technical delivery.
 
 ---
 
-### 🛠️ Technologies & Tools:
-- **Languages**: Python (primary), R, C++
-- **AI & ML**: TensorFlow, PyTorch, Scikit-learn
-- **Tools**: Jupyter, Docker, GitHub Actions, Notion
-- **Cloud**: AWS, GCP, Azure (certified)
-- **Research**: Computational Physics, Quantum Simulations
+### 💼 What I Do
+
+- **AI-Focused Program Manager**  
+  Led digital skilling initiatives with **USAID**, **ASEAN**, and **AWS**, impacting 1000+ learners and driving collaboration between governments, startups, and communities.
+
+- **Technical Problem Solver**  
+  Capable of building prototypes, data pipelines, and ML workflows using Python. Currently building **LMX (Learning Machine Experiment)**—a lightweight, memory-based AI chatbot for learning and experimentation.
+
+- **Educator & Communicator**  
+  Experienced in simplifying complex AI topics for public sector, educators, and youth. Delivered talks and trainings for institutions like **BPK RI** and **Intel’s AI Global Impact Festival**.
 
 ---
 
-### 🌟 Highlights:
-- 🏆 Awarded **AI Innovator** at AI Global Impact Festival (2021)  
-- 🌏 Empowered **1000+ individuals** in digital skills and AI through regional programs  
-- 🎓 Researcher in **Nanomaterials for Sensing Applications** with **99.99% accuracy** in modeling  
+### 🧠 Tools I Use
+
+**Languages**: Python, R, C++  
+**AI/ML**: PyTorch, scikit-learn, TensorFlow  
+**Dev Tools**: Jupyter, Streamlit, GitHub Actions  
+**Cloud**: AWS, GCP, Azure  
+**Other**: Notion, Figma, Trello
 
 ---
 
-### 🔭 Current Focus:
-1. Writing a **comprehensive AI literacy book** to inspire and educate. 📖  
-2. Driving open-source projects in **quantum computing** and **game AI frameworks**.  
-3. Preparing for a **Fulbright Scholarship** to advance in AI and digital policy. 🎓  
+### 🛠️ Current Projects
+
+- 🔁 **LMX – Learning Machine Experiment**: a chatbot that remembers, reflects, and asks questions.  
+- 📘 Writing an **AI literacy book** for policymakers and beginners.  
+- 🧠 Learning more about **AGI, symbolic reasoning**, and human-centered design.
 
 ---
 
-### 🤝 Let's Connect:
-- https://www.linkedin.com/in/febri-/
-  
----
+### 🤝 Let’s Connect
 
-“Tech should not just solve problems but empower thousands to build the future. Let’s inspire, lead, and create impact together.” 💡
+- 🌐 [LinkedIn](https://www.linkedin.com/in/febri-/)  
+- 📧 febto.febri@gmail.com  
